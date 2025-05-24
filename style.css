@@ -1,0 +1,25 @@
+body {
+  background: #fff0f5;
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.foto {
+  max-width: 90vw;
+  border-radius: 20px;
+  margin-bottom: 1rem;
+}
+
+.mensagem {
+  font-size: 1.5rem;
+  color: #c71585;
+  padding: 0 1rem;
+}
